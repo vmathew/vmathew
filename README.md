@@ -3,7 +3,7 @@
 #### My name is Vivek Mathew
 
 - 🏡 I am based out of Chicago in 🇺🇸
-- 💻 I’m currently working at AWS, as a Senior Cloud Application Architect.
+- 💻 I’m currently working as a Pricipal Cloud Application Architect at FifthThird Bank. (Ex-Amazon)
 - 🌟 Over 16 years of experience in Software Development in various roles and domains.
 - Inventor of 2 Unique architecture patents approved and published [US11886278B2](https://patents.google.com/patent/US11886278B2/en?oq=US11886278B2) and [US11868749B2](https://patents.google.com/patent/US11868749B2/en?oq=US11868749B2)
 - 💬 Ask me about AWS Cloud Application Development or DevOps or IaC practices.
