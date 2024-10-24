@@ -10,6 +10,13 @@
 - 📫 You can reach out to me at <a href="mailto:mr.vivek.mathew@gmail.com"> mr.vivek.mathew@gmail.com </a>
 - 🏅4x AWS Certified [Credly Profile](https://www.credly.com/users/vivek-j-mathew/)
 
+#### My Certifications
+![image info](https://images.credly.com/size/160x160/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)
+![image info](https://images.credly.com/size/160x160/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)
+![image info](https://images.credly.com/size/160x160/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)
+![image info](https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+![image info](https://images.credly.com/size/160x160/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+
 #### My Skills
 
 ##### Cloud
