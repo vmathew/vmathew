@@ -8,6 +8,7 @@
 - Inventor of 2 Unique architecture patents approved and published [US11886278B2](https://patents.google.com/patent/US11886278B2/en?oq=US11886278B2) and [US11868749B2](https://patents.google.com/patent/US11868749B2/en?oq=US11868749B2)
 - 💬 Ask me about Generative AI or AWS Cloud Application Development/DevOps/IaC practices.
 - 📫 You can reach out to me at <a href="mailto:mr.vivek.mathew@gmail.com"> mr.vivek.mathew@gmail.com </a>
+- 🏅4x AWS Certified [Credly Profile](https://www.credly.com/users/vivek-j-mathew/)
 
 #### My Skills
 
