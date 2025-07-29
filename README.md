@@ -3,7 +3,7 @@
 #### My name is Vivek Mathew
 
 - 🏡 I am based out of Chicago 🇺🇸
-- 💻 I’m currently working as a Principal Architect in the Cloud Engineering team of a Bank. (Ex-Amazon)
+- 💻 I’m currently working as a Consultant in the Cloud Engineering team of a Bank. (Ex-Amazon)
 - 🌟 Over 18 years of experience in Software Development in various roles and domains.
 - Inventor of 2 Unique architecture patents approved and published [US11886278B2](https://patents.google.com/patent/US11886278B2/en?oq=US11886278B2) and [US11868749B2](https://patents.google.com/patent/US11868749B2/en?oq=US11868749B2)
 - 💬 Ask me about Generative AI or AWS Cloud Application Development/DevOps/IaC practices.
