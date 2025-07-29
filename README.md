@@ -11,7 +11,7 @@
 - 🏅4x AWS Certified [Credly Profile](https://www.credly.com/users/vivek-j-mathew/)
 
 #### Passionate about
-- 🚀 Starting a start up of my Own. (Working towards it)
+- 🚀 Starting a start-up of my Own. (Working towards it)
 - Passionate about fitness. I love biking 🚴, running 🏃‍♂️, rowing 🚣‍♂️, walking 🚶‍♂️
 
 #### My Certifications
