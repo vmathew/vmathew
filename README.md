@@ -13,6 +13,7 @@
 #### Passionate about
 - 🚀 Starting a start-up of my Own. (Working towards it)
 - Passionate about fitness. I love biking 🚴, running 🏃‍♂️, rowing 🚣‍♂️, walking 🚶‍♂️
+- Love watching Formula one 🏎️, Soccer ⚽, Cricket 🏏, Basketball ⛹️‍♂️
 
 #### My Certifications
 ![image info](https://images.credly.com/size/160x160/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)
