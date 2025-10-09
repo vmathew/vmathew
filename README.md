@@ -12,7 +12,7 @@
 
 #### Passionate about
 - 🚀 Starting a start-up of my Own. (Working towards it)
-- Passionate about fitness. I love biking 🚴, running 🏃‍♂️, rowing 🚣‍♂️, walking 🚶‍♂️
+- Passionate about traveling & fitness activities. I love biking 🚴, running 🏃‍♂️, rowing 🚣‍♂️, walking 🚶‍♂️
 - Love watching Formula one 🏎️, Soccer ⚽, Cricket 🏏, Basketball ⛹️‍♂️
 
 #### My Certifications
