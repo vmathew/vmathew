@@ -1,0 +1,28 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    # every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest posts from bitsnbeyond.blog
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.bitsnbeyond.blog/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url) · $date"
+          date_format: "mmm d, yyyy"
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "chore: update latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
