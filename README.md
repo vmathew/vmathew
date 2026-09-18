@@ -1,6 +1,6 @@
 # Hi, I'm Vivek Mathew 👋
 
-**AI platform & engineering leader · Principal Architect at Fifth Third Bank · ex-Amazon**
+**AI platform & engineering leader · Principal Architect at Fifth Third Bank · ex-AWS**
 
 I build the platforms that let large organizations adopt AI without losing control of it: governed model access, cost attribution, observability, and agent infrastructure on AWS. 19+ years across cloud platforms, distributed systems, and applied AI. Two US patents. I write about all of it at [bitsnbeyond.blog](https://www.bitsnbeyond.blog).
 
@@ -19,7 +19,7 @@ I build the platforms that let large organizations adopt AI without losing contr
 ## Background
 
 - 🏡 Chicago, USA
-- 💼 Principal Architect, Fifth Third Bank (2024– till date) · Senior Cloud Application Architect, AWS (2022–24) · Senior Architect, Big Compass (2021–22) · Principal Architect, Discover (2020–21)
+- 💼 Principal Architect, Fifth Third Bank (2024–) · Senior Cloud Application Architect, AWS (2022–24) · Senior Architect, Big Compass (2021–22) · Principal Architect, Discover (2020–21)
 - 📜 Inventor on two approved US patents: [US11886278B2](https://patents.google.com/patent/US11886278B2/en) (MLOps) and [US11868749B2](https://patents.google.com/patent/US11868749B2/en) (streaming)
 - 💬 Ask me about AI governance, Bedrock and AgentCore, agent architecture, or AWS application development and IaC
 
@@ -37,28 +37,63 @@ I build the platforms that let large organizations adopt AI without losing contr
 [![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com)
 [![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logoColor=white)](https://aws.amazon.com/bedrock/)
 [![Bedrock AgentCore](https://img.shields.io/badge/Bedrock%20AgentCore-FF9900?style=for-the-badge&logoColor=white)](https://aws.amazon.com/bedrock/agentcore/)
-[![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io)
+[![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io)
 [![Strands Agents](https://img.shields.io/badge/Strands%20Agents-232F3E?style=for-the-badge)](https://strandsagents.com)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+
+## Observability
+
+[![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=for-the-badge&logoColor=white)](https://aws.amazon.com/cloudwatch/)
 [![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)](https://www.dynatrace.com)
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
 
 ## Cloud & platform
 
-[![Cloud](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,openshift,redhat,dynamodb&perline=8)](https://skillicons.dev)
-
-[![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square)
-![ECS/EKS](https://img.shields.io/badge/ECS%20%2F%20EKS-FF9900?style=flat-square)
-![Step Functions](https://img.shields.io/badge/Step%20Functions-FF9900?style=flat-square)
-![SCPs](https://img.shields.io/badge/Organizations%20%2F%20SCPs-FF9900?style=flat-square)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)](https://aws.amazon.com)
+[![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logoColor=white)](https://aws.amazon.com/lambda/)
+[![Amazon ECS / EKS](https://img.shields.io/badge/ECS%20%2F%20EKS-FF9900?style=for-the-badge&logoColor=white)](https://aws.amazon.com/containers/)
+[![Step Functions](https://img.shields.io/badge/Step%20Functions-FF9900?style=for-the-badge&logoColor=white)](https://aws.amazon.com/step-functions/)
+[![Organizations / SCPs](https://img.shields.io/badge/Organizations%20%2F%20SCPs-FF9900?style=for-the-badge&logoColor=white)](https://aws.amazon.com/organizations/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org)
 
 ## Languages & frameworks
 
-[![Backend](https://skillicons.dev/icons?i=java,spring,py,fastapi,flask,ts,nodejs,nestjs,nextjs,react&perline=10)](https://skillicons.dev)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)](https://www.java.com)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 
 ## Data
 
-[![Database](https://skillicons.dev/icons?i=dynamodb,postgres,mysql,mongodb,elasticsearch&perline=8)](https://skillicons.dev)
+[![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logoColor=white)](https://aws.amazon.com/dynamodb/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co)
+
+## DevOps & tooling
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org)
+[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)](https://code.visualstudio.com)
 
 ## Certifications
 
