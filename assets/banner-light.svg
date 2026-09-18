@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Vivek Mathew: Bits of enterprise AI, and what lies beyond the build." font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif">
+  <rect width="1200" height="320" rx="24" fill="#ffffff"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="23.25" fill="none" stroke="#e2e8f0" stroke-width="1.5"/>
+  <!-- left: words -->
+  <text x="64" y="112" font-size="52" font-weight="700" fill="#1f2933" letter-spacing="-0.5">Vivek Mathew</text>
+  <text x="64" y="156" font-size="21" fill="#5b6b7b">Bits of enterprise AI, and what lies beyond the build.</text>
+  <rect x="64" y="182" width="56" height="3" rx="1.5" fill="#2563eb"/>
+  <text x="64" y="220" font-size="16" fill="#1f2933">Principal Architect · governed AI platforms, FinOps and agents on AWS</text>
+  <text x="64" y="248" font-size="16" fill="#5b6b7b">Chicago · 19+ years · 2 US patents · <tspan fill="#2563eb" font-weight="600">bitsnbeyond.blog</tspan></text>
+  <!-- right: motif — bits enter a governed path, and go beyond -->
+  <g>
+    <text x="700" y="112" font-size="11" font-weight="600" letter-spacing="1.5" fill="#98a4b3">BITS</text>
+    <rect x="700" y="128" width="24" height="24" rx="6" fill="#2563eb" stroke="#93b0f5" stroke-width="1.5"/><rect x="734" y="128" width="24" height="24" rx="6" fill="#ffffff" stroke="#93b0f5" stroke-width="1.5"/><rect x="768" y="128" width="24" height="24" rx="6" fill="#2563eb" stroke="#93b0f5" stroke-width="1.5"/><rect x="802" y="128" width="24" height="24" rx="6" fill="#2563eb" stroke="#93b0f5" stroke-width="1.5"/><rect x="836" y="128" width="24" height="24" rx="6" fill="#ffffff" stroke="#93b0f5" stroke-width="1.5"/><rect x="870" y="128" width="24" height="24" rx="6" fill="#ffffff" stroke="#93b0f5" stroke-width="1.5"/><rect x="904" y="128" width="24" height="24" rx="6" fill="#2563eb" stroke="#93b0f5" stroke-width="1.5"/>
+    <path d="M 942 140 H 968" stroke="#93b0f5" stroke-width="1.5" fill="none"/>
+    <path d="M 962 134 L 970 140 L 962 146" stroke="#93b0f5" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="700" y="196" font-size="11" font-weight="600" letter-spacing="1.5" fill="#98a4b3">THE GOVERNED PATH</text>
+    <rect x="700" y="206" width="330" height="58" rx="12" fill="#f6f8fa" stroke="#e2e8f0" stroke-width="1.5"/>
+    <rect x="714" y="220" width="92" height="30" rx="15" fill="#e3f5ec" stroke="#9fd8bf"/>
+    <text x="760" y="240" font-size="12.5" font-weight="600" text-anchor="middle" fill="#0f6f4f">guardrail</text>
+    <rect x="816" y="220" width="92" height="30" rx="15" fill="#e7edfd" stroke="#93b0f5"/>
+    <text x="862" y="240" font-size="12.5" font-weight="600" text-anchor="middle" fill="#17315e">trace</text>
+    <rect x="918" y="220" width="98" height="30" rx="15" fill="#fdf3e0" stroke="#e8cc9a"/>
+    <text x="967" y="240" font-size="12.5" font-weight="600" text-anchor="middle" fill="#b7791f">cost tag</text>
+    <text x="1062" y="196" font-size="11" font-weight="600" letter-spacing="1.5" fill="#98a4b3">BEYOND</text>
+    <path d="M 1030 235 H 1060" stroke="#93b0f5" stroke-width="1.5" fill="none"/>
+    <circle cx="1088" cy="235" r="9" fill="#2563eb"/>
+    <circle cx="1088" cy="235" r="20" fill="none" stroke="#93b0f5" stroke-width="1.2" opacity="0.8"/>
+    <circle cx="1088" cy="235" r="32" fill="none" stroke="#93b0f5" stroke-width="1" opacity="0.45"/>
+    <circle cx="1088" cy="235" r="44" fill="none" stroke="#93b0f5" stroke-width="1" opacity="0.2"/>
+  </g>
+</svg>

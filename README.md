@@ -1,29 +1,70 @@
-# Hi, I'm Vivek Mathew 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Vivek Mathew — Bits of enterprise AI, and what lies beyond the build." src="assets/banner-light.svg" width="100%">
+</picture>
 
-**AI platform & engineering leader · Principal Architect at Fifth Third Bank · ex-AWS**
+<p align="center">
+  <a href="https://www.bitsnbeyond.blog"><img src="https://img.shields.io/badge/bitsnbeyond.blog-read-2563eb?style=for-the-badge" alt="Blog"></a>
+  <a href="https://www.linkedin.com/in/vjmathew/"><img src="https://img.shields.io/badge/LinkedIn-vjmathew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://img.shields.io/badge/AWS%20Certified-4x-FF9900?style=for-the-badge" alt="Credly"></a>
+  <a href="mailto:mr.vivek.mathew@gmail.com"><img src="https://img.shields.io/badge/Email-mr.vivek.mathew%40gmail.com-333?style=for-the-badge" alt="Email"></a>
+</p>
 
-I build the platforms that let large organizations adopt AI without losing control of it: governed model access, cost attribution, observability, and agent infrastructure on AWS. 19+ years across cloud platforms, distributed systems, and applied AI. Two US patents. I write about all of it at [bitsnbeyond.blog](https://www.bitsnbeyond.blog).
+<table>
+<tr>
+<td width="58%" valign="top">
 
-[![Blog](https://img.shields.io/badge/bitsnbeyond.blog-read-2563eb?style=for-the-badge)](https://www.bitsnbeyond.blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vjmathew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vjmathew/)
-[![Credly](https://img.shields.io/badge/AWS%20Certified-4x-FF9900?style=for-the-badge)](https://www.credly.com/users/vivek-j-mathew/)
-[![Email](https://img.shields.io/badge/Email-mr.vivek.mathew%40gmail.com-333?style=for-the-badge)](mailto:mr.vivek.mathew@gmail.com)
+### What I do
 
-## What I'm working on
+I build the platforms that let large organizations adopt AI without losing control of it: governed model access, cost attribution, observability, and agent infrastructure on AWS. 19+ years across cloud platforms, distributed systems, and applied AI. Principal Architect at Fifth Third Bank, ex-AWS, two US patents.
 
-- 🏦 **Enterprise AI platform** – a governed path to Amazon Bedrock for a regulated bank: guardrails enforced at the invocation layer, application inference profiles for cost attribution, mandatory invocation logging and tracing, and an internal VS Code extension so engineers get a compliant model call in minutes.
-- 💸 **FinOps for LLMs** – per-team token cost reporting, prompt-caching discipline, and the four kinds of repeated tokens ([post](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/12/four-kinds-of-repeated-tokens.html)).
-- 🤖 **Agents in production** – harness design, MCP tool governance, and where Bedrock AgentCore fits ([post](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/10/the-agent-harness-explained.html)).
+### Working on
+
+- 🏦 **Enterprise AI platform** – a governed path to Amazon Bedrock for a regulated bank: guardrails at the invocation layer, inference profiles for cost attribution, mandatory tracing, and a VS Code extension that gets engineers a compliant model call in minutes.
+- 💸 **FinOps for LLMs** – per-team token cost, prompt-caching discipline, [the four kinds of repeated tokens](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/12/four-kinds-of-repeated-tokens.html).
+- 🤖 **Agents in production** – harness design, MCP tool governance, [where Bedrock AgentCore fits](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/10/the-agent-harness-explained.html).
 - 🚀 Building toward a product of my own.
+
+</td>
+<td width="42%" valign="top">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vmathew&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=7aa7ff&icon_color=7aa7ff&text_color=e3e8ee">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vmathew&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=1f2933" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vmathew&layout=compact&hide_border=true&bg_color=0d1117&title_color=7aa7ff&text_color=e3e8ee">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmathew&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=1f2933" width="100%">
+</picture>
+
+</td>
+</tr>
+</table>
+
+## Latest from the blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Four Kinds of Repeated Tokens, and Four Ways to Stop Paying for Them](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/12/four-kinds-of-repeated-tokens.html) · Sep 12, 2026
+- [The Agent Harness, Explained: What It Is, and Which Parts Bedrock and AgentCore Give You](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/10/the-agent-harness-explained.html) · Sep 10, 2026
+- [Bedrock AgentCore in Practice: What the Managed Primitives Buy You, and What They Don't](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/02/bedrock-agentcore-in-practice.html) · Sep 2, 2026
+- [How to Say No to an Executive's AI Demo Without Losing the Executive](https://www.bitsnbeyond.blog/tech/ai/leadership/2026/08/30/how-to-say-no-to-an-executive-ai-demo.html) · Aug 30, 2026
+- [Design Reviews Are the Best Teaching Tool You Have](https://www.bitsnbeyond.blog/tech/ai/leadership/2026/08/25/design-reviews-are-the-best-teaching-tool.html) · Aug 25, 2026
+<!-- BLOG-POST-LIST:END -->
+
+Start with the series: [AI governance](https://www.bitsnbeyond.blog/tech/ai/governance/2024/09/01/ai-governance-is-the-new-cloud-security.html) · [Agents and architecture](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/10/the-agent-harness-explained.html) · [Leadership](https://www.bitsnbeyond.blog/tech/ai/governance/leadership/2026/08/15/how-to-talk-to-a-risk-committee-about-ai.html)
 
 ## Background
 
-- 🏡 Chicago, USA
 - 💼 Principal Architect, Fifth Third Bank (2024–) · Senior Cloud Application Architect, AWS (2022–24) · Senior Architect, Big Compass (2021–22) · Principal Architect, Discover (2020–21)
 - 📜 Inventor on two approved US patents: [US11886278B2](https://patents.google.com/patent/US11886278B2/en) (MLOps) and [US11868749B2](https://patents.google.com/patent/US11868749B2/en) (streaming)
+- 🏡 Chicago, USA
 - 💬 Ask me about AI governance, Bedrock and AgentCore, agent architecture, or AWS application development and IaC
 
-## AI stack
+<details>
+<summary><b>Toolbox</b> — AI stack, observability, cloud, languages, data, DevOps, certifications</summary>
+
+### AI stack
 
 <!-- Optional: official AWS service icons. Download the AWS Architecture Icons pack
      (https://aws.amazon.com/architecture/icons/), copy the Bedrock and AgentCore SVGs into
@@ -42,7 +83,7 @@ I build the platforms that let large organizations adopt AI without losing contr
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
 
-## Observability
+### Observability
 
 [![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=for-the-badge&logoColor=white)](https://aws.amazon.com/cloudwatch/)
 [![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)](https://www.dynatrace.com)
@@ -50,7 +91,7 @@ I build the platforms that let large organizations adopt AI without losing contr
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
 
-## Cloud & platform
+### Cloud & platform
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)](https://aws.amazon.com)
 [![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logoColor=white)](https://aws.amazon.com/lambda/)
@@ -63,7 +104,7 @@ I build the platforms that let large organizations adopt AI without losing contr
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org)
 
-## Languages & frameworks
+### Languages & frameworks
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)](https://www.java.com)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -76,7 +117,7 @@ I build the platforms that let large organizations adopt AI without losing contr
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 
-## Data
+### Data
 
 [![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logoColor=white)](https://aws.amazon.com/dynamodb/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
@@ -84,7 +125,7 @@ I build the platforms that let large organizations adopt AI without losing contr
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co)
 
-## DevOps & tooling
+### DevOps & tooling
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
@@ -95,7 +136,7 @@ I build the platforms that let large organizations adopt AI without losing contr
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)](https://code.visualstudio.com)
 
-## Certifications
+### Certifications
 
 <a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="110" alt="AWS certification" /></a>
 <a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="110" alt="AWS certification" /></a>
@@ -103,13 +144,8 @@ I build the platforms that let large organizations adopt AI without losing contr
 <a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS certification" /></a>
 <a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS certification" /></a>
 
-## Latest from the blog
 
-- [The Agent Harness, Explained: What It Is, and Which Parts Bedrock and AgentCore Give You](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/10/the-agent-harness-explained.html)
-- [Four Kinds of Repeated Tokens, and Four Ways to Stop Paying for Them](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/12/four-kinds-of-repeated-tokens.html)
-- [Bedrock AgentCore in Practice: What the Managed Primitives Buy You, and What They Don't](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/02/bedrock-agentcore-in-practice.html)
-- [How to Talk to a Risk Committee About AI: Controls as Evidence, Not Friction](https://www.bitsnbeyond.blog/tech/ai/governance/leadership/2026/08/15/how-to-talk-to-a-risk-committee-about-ai.html)
-- [AI Governance Is the New Cloud Security](https://www.bitsnbeyond.blog/tech/ai/governance/2024/09/01/ai-governance-is-the-new-cloud-security.html)
+</details>
 
 ## Off the clock
 
