@@ -19,7 +19,7 @@ I build the platforms that let large organizations adopt AI without losing contr
 ## Background
 
 - 🏡 Chicago, USA
-- 💼 Principal Architect, Fifth Third Bank (2024–) · Senior Cloud Application Architect, AWS (2022–24) · Senior Architect, Big Compass (2021–22) · Principal Architect, Discover (2020–21)
+- 💼 Principal Architect, Fifth Third Bank (2024– till date) · Senior Cloud Application Architect, AWS (2022–24) · Senior Architect, Big Compass (2021–22) · Principal Architect, Discover (2020–21)
 - 📜 Inventor on two approved US patents: [US11886278B2](https://patents.google.com/patent/US11886278B2/en) (MLOps) and [US11868749B2](https://patents.google.com/patent/US11868749B2/en) (streaming)
 - 💬 Ask me about AI governance, Bedrock and AgentCore, agent architecture, or AWS application development and IaC
 
