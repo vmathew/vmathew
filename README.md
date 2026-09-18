@@ -68,8 +68,7 @@ I build the platforms that let large organizations adopt AI without losing contr
 - 🏡 Chicago, USA
 - 💬 Ask me about AI governance, Bedrock and AgentCore, agent architecture, or AWS application development and IaC
 
-<details>
-<summary><b>Toolbox</b> — AI stack, observability, cloud, languages, data, DevOps</summary>
+## Toolbox
 
 ### AI stack
 
@@ -143,7 +142,6 @@ I build the platforms that let large organizations adopt AI without losing contr
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)](https://code.visualstudio.com)
 
-</details>
 
 ## Off the clock
 
