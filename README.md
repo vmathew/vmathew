@@ -50,15 +50,7 @@ I build the platforms that let large organizations adopt AI without losing contr
 
 ## Latest from the blog
 
-<!-- BLOG-POST-LIST:START -->
-
-- [Four Kinds of Repeated Tokens, and Four Ways to Stop Paying for Them](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/12/four-kinds-of-repeated-tokens.html) · Sep 12, 2026
-- [The Agent Harness, Explained: What It Is, and Which Parts Bedrock and AgentCore Give You](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/10/the-agent-harness-explained.html) · Sep 10, 2026
-- [Bedrock AgentCore in Practice: What the Managed Primitives Buy You, and What They Don't](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/02/bedrock-agentcore-in-practice.html) · Sep 2, 2026
-- [How to Say No to an Executive's AI Demo Without Losing the Executive](https://www.bitsnbeyond.blog/tech/ai/leadership/2026/08/30/how-to-say-no-to-an-executive-ai-demo.html) · Aug 30, 2026
-- [Design Reviews Are the Best Teaching Tool You Have](https://www.bitsnbeyond.blog/tech/ai/leadership/2026/08/25/design-reviews-are-the-best-teaching-tool.html) · Aug 25, 2026
-
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Four Kinds of Repeated Tokens, and Four Ways to Stop Paying for Them](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/12/four-kinds-of-repeated-tokens.html) · Sep 12, 2026- [The Agent Harness, Explained: What It Is, and Which Parts Bedrock and AgentCore Give You](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/10/the-agent-harness-explained.html) · Sep 10, 2026- [Bedrock AgentCore in Practice: What the Managed Primitives Buy You, and What They Don’t](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/02/bedrock-agentcore-in-practice.html) · Sep 2, 2026- [How to Say No to an Executive’s AI Demo Without Losing the Executive](https://www.bitsnbeyond.blog/tech/ai/leadership/2026/08/30/how-to-say-no-to-an-executive-ai-demo.html) · Aug 30, 2026- [Design Reviews Are the Best Teaching Tool You Have](https://www.bitsnbeyond.blog/tech/ai/leadership/2026/08/25/design-reviews-are-the-best-teaching-tool.html) · Aug 25, 2026<!-- BLOG-POST-LIST:END -->
 
 
 ## Background
