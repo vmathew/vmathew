@@ -28,15 +28,21 @@ I build the platforms that let large organizations adopt AI without losing contr
 </td>
 <td width="42%" valign="top">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vmathew&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=7aa7ff&icon_color=7aa7ff&text_color=e3e8ee">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vmathew&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=1f2933" width="100%">
-</picture>
+### Certified
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vmathew&layout=compact&hide_border=true&bg_color=0d1117&title_color=7aa7ff&text_color=e3e8ee">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmathew&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=1f2933" width="100%">
-</picture>
+<p align="center">
+<a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="110" alt="AWS certification" /></a>
+<a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="110" alt="AWS certification" /></a>
+<a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" width="110" alt="AWS certification" /></a>
+<a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS certification" /></a>
+<a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS certification" /></a>
+</p>
+
+### Start here
+
+- [AI governance is the new cloud security](https://www.bitsnbeyond.blog/tech/ai/governance/2024/09/01/ai-governance-is-the-new-cloud-security.html) — the series opener
+- [How to talk to a risk committee about AI](https://www.bitsnbeyond.blog/tech/ai/governance/leadership/2026/08/15/how-to-talk-to-a-risk-committee-about-ai.html) — controls as evidence
+- [The agent harness, explained](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/10/the-agent-harness-explained.html) — build vs adopt
 
 </td>
 </tr>
@@ -44,9 +50,16 @@ I build the platforms that let large organizations adopt AI without losing contr
 
 ## Latest from the blog
 
-<!-- BLOG-POST-LIST:START -->- [Four Kinds of Repeated Tokens, and Four Ways to Stop Paying for Them](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/12/four-kinds-of-repeated-tokens.html) · Sep 12, 2026- [The Agent Harness, Explained: What It Is, and Which Parts Bedrock and AgentCore Give You](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/10/the-agent-harness-explained.html) · Sep 10, 2026- [Bedrock AgentCore in Practice: What the Managed Primitives Buy You, and What They Don’t](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/02/bedrock-agentcore-in-practice.html) · Sep 2, 2026- [How to Say No to an Executive’s AI Demo Without Losing the Executive](https://www.bitsnbeyond.blog/tech/ai/leadership/2026/08/30/how-to-say-no-to-an-executive-ai-demo.html) · Aug 30, 2026- [Design Reviews Are the Best Teaching Tool You Have](https://www.bitsnbeyond.blog/tech/ai/leadership/2026/08/25/design-reviews-are-the-best-teaching-tool.html) · Aug 25, 2026<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
 
-Start with the series: [AI governance](https://www.bitsnbeyond.blog/tech/ai/governance/2024/09/01/ai-governance-is-the-new-cloud-security.html) · [Agents and architecture](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/10/the-agent-harness-explained.html) · [Leadership](https://www.bitsnbeyond.blog/tech/ai/governance/leadership/2026/08/15/how-to-talk-to-a-risk-committee-about-ai.html)
+- [Four Kinds of Repeated Tokens, and Four Ways to Stop Paying for Them](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/12/four-kinds-of-repeated-tokens.html) · Sep 12, 2026
+- [The Agent Harness, Explained: What It Is, and Which Parts Bedrock and AgentCore Give You](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/10/the-agent-harness-explained.html) · Sep 10, 2026
+- [Bedrock AgentCore in Practice: What the Managed Primitives Buy You, and What They Don't](https://www.bitsnbeyond.blog/tech/ai/architecture/2026/09/02/bedrock-agentcore-in-practice.html) · Sep 2, 2026
+- [How to Say No to an Executive's AI Demo Without Losing the Executive](https://www.bitsnbeyond.blog/tech/ai/leadership/2026/08/30/how-to-say-no-to-an-executive-ai-demo.html) · Aug 30, 2026
+- [Design Reviews Are the Best Teaching Tool You Have](https://www.bitsnbeyond.blog/tech/ai/leadership/2026/08/25/design-reviews-are-the-best-teaching-tool.html) · Aug 25, 2026
+
+<!-- BLOG-POST-LIST:END -->
+
 
 ## Background
 
@@ -56,7 +69,7 @@ Start with the series: [AI governance](https://www.bitsnbeyond.blog/tech/ai/gove
 - 💬 Ask me about AI governance, Bedrock and AgentCore, agent architecture, or AWS application development and IaC
 
 <details>
-<summary><b>Toolbox</b> — AI stack, observability, cloud, languages, data, DevOps, certifications</summary>
+<summary><b>Toolbox</b> — AI stack, observability, cloud, languages, data, DevOps</summary>
 
 ### AI stack
 
@@ -129,15 +142,6 @@ Start with the series: [AI governance](https://www.bitsnbeyond.blog/tech/ai/gove
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)](https://code.visualstudio.com)
-
-### Certifications
-
-<a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="110" alt="AWS certification" /></a>
-<a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="110" alt="AWS certification" /></a>
-<a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" width="110" alt="AWS certification" /></a>
-<a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS certification" /></a>
-<a href="https://www.credly.com/users/vivek-j-mathew/"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS certification" /></a>
-
 
 </details>
 
