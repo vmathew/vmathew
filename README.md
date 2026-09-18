@@ -1,6 +1,6 @@
 # Hi, I'm Vivek Mathew 👋
 
-**AI platform & engineering leader · Principal Architect at Fifth Third Bank · ex-AWS**
+**AI platform & engineering leader · Principal Architect at Fifth Third Bank · ex-Amazon**
 
 I build the platforms that let large organizations adopt AI without losing control of it: governed model access, cost attribution, observability, and agent infrastructure on AWS. 19+ years across cloud platforms, distributed systems, and applied AI. Two US patents. I write about all of it at [bitsnbeyond.blog](https://www.bitsnbeyond.blog).
 
